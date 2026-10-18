@@ -1,0 +1,55 @@
+{
+  "interval_value": "100",
+  "interval_unit": "milliseconds",
+  "click_button": "left",
+  "click_type": "single",
+  "click_mode": "saved",
+  "position_x": "0",
+  "position_y": "0",
+  "random_delay_enabled": false,
+  "random_delay_value": "0",
+  "saved_spots": [
+    {
+      "name": "block",
+      "x": 1222,
+      "y": 939,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "place 1",
+      "x": 1402,
+      "y": 487,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "place 2",
+      "x": 1539,
+      "y": 478,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "fist",
+      "x": 1119,
+      "y": 943,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "break 1",
+      "x": 1408,
+      "y": 480,
+      "delay": 0.3,
+      "duration": 1.0
+    },
+    {
+      "name": "break 2",
+      "x": 1538,
+      "y": 478,
+      "delay": 0.3,
+      "duration": 1.0
+    }
+  ]
+}

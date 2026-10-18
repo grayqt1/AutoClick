@@ -1,0 +1,90 @@
+{
+  "interval_value": "100",
+  "interval_unit": "milliseconds",
+  "click_button": "left",
+  "click_type": "single",
+  "click_mode": "saved",
+  "position_x": "0",
+  "position_y": "0",
+  "random_delay_enabled": false,
+  "random_delay_value": "0",
+  "saved_spots": [
+    {
+      "name": "flour",
+      "x": 1099,
+      "y": 942,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "oven click",
+      "x": 1370,
+      "y": 418,
+      "delay": 0.5,
+      "duration": 0.5
+    },
+    {
+      "name": "temp",
+      "x": 815,
+      "y": 570,
+      "delay": 1.0,
+      "duration": 0.5
+    },
+    {
+      "name": "egg",
+      "x": 1232,
+      "y": 810,
+      "delay": 0.5,
+      "duration": 0.5
+    },
+    {
+      "name": "oven egg",
+      "x": 1362,
+      "y": 423,
+      "delay": 0.5,
+      "duration": 0.5
+    },
+    {
+      "name": "milk",
+      "x": 1311,
+      "y": 823,
+      "delay": 0.5,
+      "duration": 0.5
+    },
+    {
+      "name": "milk oven",
+      "x": 1360,
+      "y": 418,
+      "delay": 26.7,
+      "duration": 0.3
+    },
+    {
+      "name": "berry",
+      "x": 1436,
+      "y": 806,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "berry oven",
+      "x": 1353,
+      "y": 424,
+      "delay": 13.3,
+      "duration": 0.3
+    },
+    {
+      "name": "punch",
+      "x": 1124,
+      "y": 806,
+      "delay": 0.3,
+      "duration": 0.3
+    },
+    {
+      "name": "punch oven",
+      "x": 1359,
+      "y": 412,
+      "delay": 20.0,
+      "duration": 0.3
+    }
+  ]
+}

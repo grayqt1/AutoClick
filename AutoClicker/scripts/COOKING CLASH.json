@@ -1,0 +1,300 @@
+{
+  "interval_value": "100",
+  "interval_unit": "milliseconds",
+  "click_button": "left",
+  "click_type": "single",
+  "click_mode": "saved",
+  "position_x": "0",
+  "position_y": "0",
+  "random_delay_enabled": false,
+  "random_delay_value": "0",
+  "saved_spots": [
+    {
+      "name": "flour",
+      "x": 1402,
+      "y": 936,
+      "delay": 0.8,
+      "duration": 0.5
+    },
+    {
+      "name": "OVEN 1",
+      "x": 1173,
+      "y": 207,
+      "delay": 0.8,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP 1",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "OVEN 2",
+      "x": 1263,
+      "y": 211,
+      "delay": 0.97,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP 2",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "OVEN 3",
+      "x": 1382,
+      "y": 209,
+      "delay": 0.97,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP 3",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "OVEN 4",
+      "x": 1167,
+      "y": 316,
+      "delay": 0.97,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP 4",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "OVEN 5",
+      "x": 1268,
+      "y": 314,
+      "delay": 0.97,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP 5",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "OVEN 6",
+      "x": 1383,
+      "y": 314,
+      "delay": 0.97,
+      "duration": 0.5
+    },
+    {
+      "name": "TEMP6",
+      "x": 813,
+      "y": 569,
+      "delay": 0.8,
+      "duration": 0.4
+    },
+    {
+      "name": "EGG CLICK",
+      "x": 1231,
+      "y": 813,
+      "delay": 0.8,
+      "duration": 0.8
+    },
+    {
+      "name": "OVEN E1",
+      "x": 1164,
+      "y": 218,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN E2",
+      "x": 1261,
+      "y": 210,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN E3",
+      "x": 1369,
+      "y": 215,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN E4",
+      "x": 1157,
+      "y": 314,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN E5",
+      "x": 1267,
+      "y": 310,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN E6",
+      "x": 1379,
+      "y": 307,
+      "delay": 0.6,
+      "duration": 0.3
+    },
+    {
+      "name": "MILK CLICK",
+      "x": 1319,
+      "y": 814,
+      "delay": 0.8,
+      "duration": 0.8
+    },
+    {
+      "name": "OVEN M1",
+      "x": 1167,
+      "y": 211,
+      "delay": 26.7,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN M2",
+      "x": 1256,
+      "y": 210,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN M3",
+      "x": 1370,
+      "y": 209,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN M4",
+      "x": 1155,
+      "y": 312,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN M5",
+      "x": 1267,
+      "y": 312,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN M6",
+      "x": 1379,
+      "y": 314,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "BERRY CLICK",
+      "x": 1433,
+      "y": 814,
+      "delay": 0.8,
+      "duration": 0.8
+    },
+    {
+      "name": "OVEN B1",
+      "x": 1166,
+      "y": 209,
+      "delay": 13.3,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN B2",
+      "x": 1256,
+      "y": 206,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN B3",
+      "x": 1363,
+      "y": 208,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN B4",
+      "x": 1157,
+      "y": 312,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN B5",
+      "x": 1267,
+      "y": 310,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN B6",
+      "x": 1387,
+      "y": 313,
+      "delay": 0.4,
+      "duration": 0.3
+    },
+    {
+      "name": "PUNCH CLICK",
+      "x": 1126,
+      "y": 808,
+      "delay": 0.8,
+      "duration": 0.8
+    },
+    {
+      "name": "OVEN P1",
+      "x": 1171,
+      "y": 208,
+      "delay": 16.7,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN P2",
+      "x": 1262,
+      "y": 212,
+      "delay": 0.5,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN P3",
+      "x": 1369,
+      "y": 212,
+      "delay": 0.5,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN P4",
+      "x": 1154,
+      "y": 312,
+      "delay": 0.5,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN P5",
+      "x": 1268,
+      "y": 310,
+      "delay": 0.5,
+      "duration": 0.3
+    },
+    {
+      "name": "OVEN P6",
+      "x": 1391,
+      "y": 315,
+      "delay": 0.5,
+      "duration": 0.3
+    }
+  ]
+}
